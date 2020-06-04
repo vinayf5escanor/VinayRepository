@@ -16,6 +16,7 @@ public class Inventory {
    private int qoh;
    private int rop;
    private double sellPrice;
+   public int roll;
  //--------------------------------------------------------------------------------------- 
    /*
    constructors 
